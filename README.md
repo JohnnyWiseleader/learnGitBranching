@@ -2,6 +2,8 @@
 
 Just my 2 cents!
 
+Brother can you pair a dime?
+
 [![Build Status](https://travis-ci.org/pcottle/learnGitBranching.svg?branch=master)](https://travis-ci.org/pcottle/learnGitBranching)
 
 LearnGitBranching is a git repository visualizer, sandbox, and series of educational tutorials and challenges. Its primary purpose is to help developers understand git through the power of visualization (something that's absent when working on the command line).
